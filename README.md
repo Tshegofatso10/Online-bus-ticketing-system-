@@ -20,6 +20,23 @@ The system is designed to modernize traditional bus ticketing by allowing users 
 Academic Project (Software Development)
 
 ## Screenshots
+## 📸 Screenshots
+
+![Login Screen](screenshots/Login.png)
+![Registration Screen](screenshots/Register.png)
+![RegisterDetails Screen](screenshots/RegisterDetails.png)
+![LandingDashboard Screen](screenshots/LandingDashboard.png)
+![Login Screen](screenshots/DashboardMenu.png)
+![Login Screen](screenshots/BookingOption.png)
+![Login Screen](screenshots/Date&Location.png)
+![Login Screen](screenshots/BookingQRCode.png)
+![Login Screen](screenshots/HistoryBookings.png)
+![Login Screen](screenshots/AmendingBooking.png)
+![Login Screen](screenshots/BookingAmended.png)
+![Login Screen](screenshots/ExtendingExpirydate.png)
+![Login Screen](screenshots/BookingCancelled.png)
+
+
 
 
 ## Future Improvements
@@ -31,5 +48,6 @@ Academic Project (Software Development)
 ## Author
 **Tshegofatso Phakwe**  
 Advanced Diploma in Software Development
+
 
 
