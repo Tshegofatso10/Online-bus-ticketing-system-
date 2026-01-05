@@ -35,9 +35,7 @@ Academic Project (Software Development)
 ![Login Screen](screenshots/BookingAmended.png)
 ![Login Screen](screenshots/ExtendingExpirydate.png)
 ![Login Screen](screenshots/BookingCancelled.png)
-
-
-
+![Login Screen](screenshots/newHistoryBooking.png)
 
 ## Future Improvements
 - Backend integration for ticket storage
@@ -48,6 +46,7 @@ Academic Project (Software Development)
 ## Author
 **Tshegofatso Phakwe**  
 Advanced Diploma in Software Development
+
 
 
 
