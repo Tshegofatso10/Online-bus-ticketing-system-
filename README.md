@@ -1,16 +1,34 @@
-# flutter_application_1
+# Online Bus Ticketing System
 
-A new Flutter project.
+A mobile-based online bus ticketing application developed using Flutter and Dart. 
+The system is designed to modernize traditional bus ticketing by allowing users to register, log in, and receive electronic tickets in the form of QR/barcodes.
 
-## Getting Started
+## Features
+- User registration and login
+- Forgot and reset password functionality
+- QR / barcode-based electronic ticket generation
+- User data validation (email, age, mobile number)
+- Clean and user-friendly interface
 
-This project is a starting point for a Flutter application.
+## Technologies Used
+- Flutter
+- Dart
+- Firebase / Backend (planned)
+- QR / Barcode generation
 
-A few resources to get you started if this is your first Flutter project:
+## Project Type
+Academic Project (Software Development)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## Screenshots
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+## Future Improvements
+- Backend integration for ticket storage
+- Admin dashboard for bus operators
+- Online payment integration
+- Ticket validation scanning feature
+
+## Author
+**Tshegofatso Phakwe**  
+Diploma / Advanced Diploma in Software Development
+
