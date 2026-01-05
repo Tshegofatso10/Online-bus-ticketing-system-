@@ -30,5 +30,6 @@ Academic Project (Software Development)
 
 ## Author
 **Tshegofatso Phakwe**  
-Diploma / Advanced Diploma in Software Development
+Advanced Diploma in Software Development
+
 
