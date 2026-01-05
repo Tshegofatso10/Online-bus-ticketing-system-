@@ -22,20 +22,30 @@ Academic Project (Software Development)
 ## Screenshots
 ## 📸 Screenshots
 
+## 📸 Screenshots
+
+### Authentication
 ![Login Screen](screenshots/Login.png)
 ![Registration Screen](screenshots/Register.png)
-![RegisterDetails Screen](screenshots/RegisterDetails.png)
-![LandingDashboard Screen](screenshots/LandingDashboard.png)
-![Login Screen](screenshots/DashboardMenu.png)
-![Login Screen](screenshots/BookingOption.png)
-![Login Screen](screenshots/Date&Location.png)
-![Login Screen](screenshots/BookingQRCode.png)
-![Login Screen](screenshots/HistoryBookings.png)
-![Login Screen](screenshots/AmendingBooking.png)
-![Login Screen](screenshots/BookingAmended.png)
-![Login Screen](screenshots/ExtendingExpirydate.png)
-![Login Screen](screenshots/BookingCancelled.png)
-![Login Screen](screenshots/newHistoryBooking.png)
+![Register Details](screenshots/RegisterDetails.png)
+
+### Dashboard & Navigation
+![Landing Dashboard](screenshots/LandingDashboard.png)
+![Dashboard Menu](screenshots/DashboardMenu.png)
+
+### Booking Process
+![Booking Option](screenshots/BookingOption.png)
+![Date and Location](screenshots/Date&Location.png)
+![Booking QR Code](screenshots/BookingQRCode.png)
+
+### Booking Management
+![Booking History](screenshots/HistoryBookings.png)
+![Amending Booking](screenshots/AmendingBooking.png)
+![Booking Amended](screenshots/BookingAmended.png)
+![Extend Expiry Date](screenshots/ExtendingExpirydate.png)
+![Booking Cancelled](screenshots/BookingCancelled.png)
+![Updated Booking History](screenshots/newHistoryBooking.png)
+
 
 ## Future Improvements
 - Backend integration for ticket storage
@@ -46,6 +56,7 @@ Academic Project (Software Development)
 ## Author
 **Tshegofatso Phakwe**  
 Advanced Diploma in Software Development
+
 
 
 
